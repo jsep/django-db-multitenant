@@ -12,7 +12,7 @@ from shutil import rmtree
 from setuptools import setup, Command
 
 # Package meta-data.
-NAME = 'django-db-multitenant'
+NAME = 'db_multitenant'
 MODULE_NAME = 'db_multitenant'
 DESCRIPTION = 'Multitenant support for Django, using one tenant per database.'
 URL = 'https://github.com/mik3y/django-db-multitenant'
